@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<listeners>
+		<listener class-name="com.bigsmall.utility.Listeners" />
+	</listeners>
+	<test thread-count="5" name="Test">
+		<classes>
+			<class name="com.bigsmall.testCases.SearchProductTC" />
+			<class name="com.bigsmall.testCases.CheckoutAutomation" />
+			<class name="com.bigsmall.utility.BaseClass" />
+			<class name="com.bigsmall.testCases.SigninTC" />
+			<class name="com.bigsmall.testCases.QtyIncrement" />
+			<class name="com.bigsmall.testCases.HoverHeader" />
+			<class name="com.bigsmall.testCases.ClickLogoTC" />
+			<class name="com.bigsmall.testCases.CODAvailablityTC" />
+			<class name="com.bigsmall.testCases.GiftCardAutomation" />
+			<class name="com.bigsmall.testCases.CorporateGiftsValidation" />
+			<class name="com.bigsmall.testCases.AddToWishlist" />
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->

@@ -1,0 +1,99 @@
+2021-11-22 14:06:20 INFO  Test Started
+2021-11-22 14:06:20 INFO  Opening the browser
+2021-11-22 14:06:20 INFO  Loading Website of Bigsmall.in
+2021-11-22 14:06:31 INFO  Search for some product inputting keys from keyboard in search bar
+2021-11-22 14:06:31 INFO  Inputting 'pocket wa' and getting keyword from dropdown suggestions
+2021-11-22 14:06:35 INFO  Navigated to search result page
+2021-11-22 14:06:35 INFO  Selecting the product from search result page
+2021-11-22 14:06:35 INFO  Product Selected and Navigated to Product details page
+2021-11-22 14:06:40 ERROR Product name not matched
+2021-11-22 14:06:41 INFO  Test Started
+2021-11-22 14:06:41 INFO  Opening the browser
+2021-11-22 14:06:44 INFO  Loading Website of Bigsmall.in
+2021-11-22 14:06:44 INFO  User Landed to Landing page
+2021-11-22 14:06:44 INFO  Click on Signin Button from header
+2021-11-22 14:06:47 INFO  Opening Signin Form
+2021-11-22 14:06:47 INFO  Input email in username field
+2021-11-22 14:06:47 INFO  Input password in password field
+2021-11-22 14:06:47 INFO  Signing Inn with credentials
+2021-11-22 14:06:52 INFO  SignedIn Sucessfull!!
+2021-11-22 14:06:53 INFO  Browser Closed.
+2021-11-22 14:06:53 INFO  Test Started
+2021-11-22 14:06:53 INFO  Opening the browser
+2021-11-22 14:06:56 INFO  Loading Website of Bigsmall.in
+2021-11-22 14:06:56 INFO  Select Santa gift From navigation bar
+2021-11-22 14:07:00 INFO  Result for Santa gift will be displayed
+2021-11-22 14:07:04 INFO  Select the product
+2021-11-22 14:07:04 INFO  Increment the quantity of product
+2021-11-22 14:07:05 INFO  Quantity incremented from one to two
+2021-11-22 14:07:05 INFO  Add this product to cart
+2021-11-22 14:07:05 INFO  Product added to cart
+2021-11-22 14:07:05 INFO  Test Started
+2021-11-22 14:07:05 INFO  Opening the browser
+2021-11-22 14:07:09 INFO  Loading Website of Bigsmall.in
+2021-11-22 14:07:09 INFO  Hover mouse on Birthday gifts
+2021-11-22 14:07:09 INFO  Getting Dropdown for Birthday Gifts for
+2021-11-22 14:07:09 INFO  Select /'Return Birthday gift'/ from Suggested dropdown
+2021-11-22 14:07:13 INFO  User will get results for /'Return Birthday gifts'/.
+2021-11-22 14:07:13 INFO  Select the Gifting product
+2021-11-22 14:07:18 INFO  Select variety of product
+2021-11-22 14:07:18 INFO  Add selected product to cart
+2021-11-22 14:07:19 INFO  Test Started
+2021-11-22 14:07:19 INFO  Opening the browser
+2021-11-22 14:07:23 INFO  Loading Website of Bigsmall.in
+2021-11-22 14:07:23 INFO  Click on 'All of it' from the navigation bar
+2021-11-22 14:07:27 INFO  Select the Product from Search results
+2021-11-22 14:07:31 INFO  Checking the functionality of logo, After clicking logo navigate to Home page
+2021-11-22 14:07:31 INFO  Validating weather logo is visible or not
+2021-11-22 14:07:32 INFO  Logo is Available on current page
+2021-11-22 14:07:32 INFO  Click on Logo
+2021-11-22 14:07:35 INFO  User navigated back to Homepage from Product Details page
+2021-11-22 14:07:36 INFO  Test Started
+2021-11-22 14:07:36 INFO  Opening the browser
+2021-11-22 14:07:39 INFO  Loading Website of Bigsmall.in
+2021-11-22 14:07:39 INFO  Click New from Navigation bar
+2021-11-22 14:07:43 INFO  Select the product
+2021-11-22 14:07:48 INFO  On navigated Product details page
+2021-11-22 14:07:48 INFO  Input the pincode for selected product
+2021-11-22 14:07:48 INFO  Check the COD available for inputed pin code
+2021-11-22 14:07:48 INFO  Check the COD available Message
+2021-11-22 14:07:51 INFO  COD Available for inputed pin code
+2021-11-22 14:07:51 INFO  Test Started
+2021-11-22 14:07:51 INFO  Opening the browser
+2021-11-22 14:07:55 INFO  Loading Website of Bigsmall.in
+2021-11-22 14:07:55 INFO  Click New from Navigation bar
+2021-11-22 14:07:58 INFO  Select the product
+2021-11-22 14:08:03 INFO  On navigated Product details page
+2021-11-22 14:08:03 INFO  Input the pincode for selected product
+2021-11-22 14:08:03 INFO  Check the COD available for inputed pin code
+2021-11-22 14:08:03 INFO  Check the COD available Message
+2021-11-22 14:08:05 ERROR COD Unavailable for inputed pin code
+2021-11-22 14:08:06 INFO  Test Started
+2021-11-22 14:08:06 INFO  Opening the browser
+2021-11-22 14:08:09 INFO  Loading Website of Bigsmall.in
+2021-11-22 14:08:09 INFO  Select the gift from navigation bar.
+2021-11-22 14:08:14 INFO  Popup will open for the gift card
+2021-11-22 14:08:14 INFO  Select the amount for gift card
+2021-11-22 14:08:14 INFO  Adding gift card to cart
+2021-11-22 14:08:15 INFO  Test Started
+2021-11-22 14:08:15 INFO  Opening the browser
+2021-11-22 14:08:18 INFO  Loading Website of Bigsmall.in
+2021-11-22 14:08:18 INFO  Select corporate gifts from navigation bar
+2021-11-22 14:08:23 INFO  Form will Open for inquiry after navigation to Corporate Gifts
+2021-11-22 14:08:23 INFO  Fill the form with respective fields
+2021-11-22 14:08:23 INFO  Input Name
+2021-11-22 14:08:23 INFO  Input email-id
+2021-11-22 14:08:23 INFO  Input Phone number
+2021-11-22 14:08:23 INFO  Input Message for inquiry
+2021-11-22 14:08:24 INFO  Test Started
+2021-11-22 14:08:24 INFO  Opening the browser
+2021-11-22 14:08:29 INFO  Loading Website of Bigsmall.in
+2021-11-22 14:08:29 INFO  Click on Top50 from navigation bar
+2021-11-22 14:08:34 INFO  Choose the product from the result
+2021-11-22 14:08:41 INFO  Add product to wishlist
+2021-11-22 14:08:42 INFO  Product wishlisted
+2021-11-22 14:08:42 INFO  Click on wishlist icon from header section
+2021-11-22 14:08:47 INFO  Continue wishlist
+2021-11-22 14:08:47 INFO  Move wishlisted product to cart
+2021-11-22 14:08:48 INFO  Product wishlisted and moved to cart
+2021-11-22 14:08:49 INFO  Browser Closed.
